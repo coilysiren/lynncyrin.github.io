@@ -11,3 +11,5 @@ twitter_username: lynncyrin
 github_username:  lynnco
 
 markdown: kramdown
+gems:
+  - jemoji
