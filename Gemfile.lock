@@ -11,8 +11,6 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-compose (0.4.1)
-      jekyll (>= 2.5.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.4.0)
@@ -35,7 +33,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-compose
 
 BUNDLED WITH
    1.12.5
