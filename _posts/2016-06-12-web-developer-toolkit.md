@@ -118,12 +118,12 @@ Databases are used to store things. My recommendation is not to think about data
 
 Used to create / obtain / edit electronic assets of various sorts. Fonts, Icons, Colors, ...
 
+* **[Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)** - make your content :100:, combine with an emoji parser, such as [jekyll emoji](https://github.com/jekyll/jemoji)
 * **[DaFont](http://www.dafont.com/)** - make sure to read the license! - for when you want fancy fonts
 * **[Font Squirrel](http://www.fontsquirrel.com/)** - convert font files into modern web standards
 * **[The Noun Project](https://thenounproject.com/)** - images for just about any purpose
 * **[Font Awesome](https://fortawesome.github.io/Font-Awesome/)** - like The Noun Project but with a CDN CSS based loading.
 * **[Color Scheme Generator](https://coolors.co/app)** - primarily for pastels
-* **[Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)** - make your content :100:, combine with an emoji parser, such as [jekyll emoji](https://github.com/jekyll/jemoji)
 
 ## Web Services
 
