@@ -10,6 +10,7 @@ url: "http://lynncyrin.me"
 twitter_username: lynncyrin
 github_username:  lynnco
 
+permalink: pretty
 markdown: kramdown
 gems:
   - jemoji
