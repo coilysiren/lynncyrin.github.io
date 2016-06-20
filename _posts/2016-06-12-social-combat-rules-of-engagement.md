@@ -29,7 +29,7 @@ Unfortunately this sort of issue has spread beyond racism and doxxing, so I'm go
 
 1. Aim for **the retribution for some problem behavior to be related to fixing it.** For example, many TERFs primary crime is harassing trans women. Mass blocking (that is: blocking them, all their followers, and distributing said blocks to your friends) TERFs is the perfect retribution, as it (in an ideal system) completely removes TERFs ability to commit the crime in the first place. As a counter example, imagine someone is being biphobic in a private chat with you. Not proclaiming the sins of all bisexuals on a large platform held up by their followers, but being pointedly rude to you, in a private setting. This is a very poor case for mass blocking, particularly so if its the person's followers aren't also biphobic.
 
-2. Understand that **personal retribution and community retribution must often be kept distinct.** If you are, for example, extremely sensitive to (ex: cultural appropriation), you might want to completely stop associating with an entire group of people because of it. That is entirely within your right to do! But do acknowledge that often not everyone you know will have the same degree of negative opinion about (cultural appropriation), so you should think of how you want your community to respond distinctly from your personal response.
+2. Understand that **personal retribution and community retribution must often be kept distinct.** If you are, for example, extremely sensitive to (ex: cultural appropriation), you might want to completely stop associating with an entire group of people because of it. That is entirely within your right to do! But do acknowledge that often not everyone you know will have the same degree of negative opinion about (cultural appropriation), so you should think of how you want your community to respond distinctly from your personal response. Also it is important to be aware of of how influence and scale plays into this. The more followers you have (ex: 10,000 as opposed to 300) the more likely it is that a personal dispute will escalate into a community issue.
 
 3. **Do not assume that someone shares all, or any, oppressive / rude / vulgar opinions / behaviors** with someone simply because they associate with them (that is, because they follow them). "X person was racist, so they're a racist..." yes, "...and everyone who follows them is a disgusting racist too" no. Allowing all the issues that a person could have to be "infectious" in this manner will simply lead to a world where everyone is bad, and nobody has any friends. If you think a entire group of people shares an opinion due to an association, you need to give it serious thought before you start handing out indictments to everyone.
 
@@ -49,9 +49,9 @@ Unfortunately this sort of issue has spread beyond racism and doxxing, so I'm go
 
 10. **Do not make repeated sourceless accusations**, particularly in public. Posting "hey I think X is racist" enough times is going to lead to people thinking they are racist, sources or not.
 
-11. Always **describe the problem behavior specifically** do not hide it with phrases like "they're abusive" / "they're oppressive".
+11. Always **describe the problem behavior specifically**, avoid using generic phrases such as harasser, troll, abuser, etc.
 
-12. **Respect the human right to food, shelter, water**. Seriously. Don't try to get people put out on the street with no way get their life back on track. If someone's in a homeless shelter (or similar) already, just lay off them entirely -- unless of course you are also in the homeless shelter and they are directly effecting you.
+12. **Respect the human right to food, shelter, water**. Seriously. Do not try to get people put out on the street with no way get their life back on track. If someone's in a homeless shelter (or similar) already, just lay off them entirely -- unless of course you are also in the homeless shelter and they are directly effecting you.
 
 13. **Understand that the end goal of all of this is to have everyone be better to each other, and not ever associating with anyone (because they're all "problematic") does very little to reach that goal.**
 
@@ -60,3 +60,12 @@ And finally: assume people will forget the rules! Particularly when there's a lo
 ---
 
 This post is open to feedback! Please tell me your opinions!
+
+---
+
+Related posts:
+
+* [My other work ^_^](https://www.patreon.com/lynncyrin?ty=h)
+* [Calling IN: A Less Disposable Way of Holding Each Other Accountable](http://www.blackgirldangerous.org/2013/12/calling-less-disposable-way-holding-accountable/)
+* [Everyone’s offended these days](https://eev.ee/blog/2016/02/15/everyones-offended-these-days/)
+* [Are we taking care of each other](http://gersande.com/blog/are-we-taking-care-of-each-other/)
