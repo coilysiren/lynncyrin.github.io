@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![my most common professional picture](http://www.gravatar.com/avatar/b1cde28ce033c8cd6f4be4059efbe00b.png?size=160)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Full Stack Web Developer, Activist, and QTWoC. Founder of
+CollectQT
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Really about: Websites, Python, Rails, Open Source,
+Preemptive Automation, Gaming, Anime, Space, Queer / Trans /
+Sex Work activism, Being Gay Online

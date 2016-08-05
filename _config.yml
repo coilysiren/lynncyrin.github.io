@@ -1,10 +1,7 @@
 title: Lynn Cyrin
 email: lynncyrin@gmail.com
 description: >
-  Full Stack Web Developer, Activist, and QTWoC. Founder of
-  CollectQT Likes: Websites Python, Rails, Open Source,
-  Premature Optimizations, Gaming, Space, Sex work, Being
-  Gay
+  Ruby / Python Web Developer and Project Manager + Activist
 baseurl: ""
 url: "http://lynncyrin.me"
 twitter_username: lynncyrin
@@ -14,3 +11,7 @@ permalink: pretty
 markdown: kramdown
 gems:
   - jemoji
+
+sass:
+    style: compressed
+    sass_dir: _sass

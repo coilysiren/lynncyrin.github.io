@@ -51,7 +51,7 @@ Unfortunately this sort of issue has spread beyond racism and doxxing, so I'm go
 
 1. Always **describe the problem behavior specifically**, avoid using generic phrases such as harasser, troll, abuser, etc.
 
-1. **Respect the human right to food, shelter, water**. Seriously. Do not try to get people put out on the street with no way get their life back on track. If someone's in a homeless shelter (or similar) already, just lay off them entirely -- unless of course you are also in the homeless shelter and they are directly effecting you.
+1. **Respect the human right to food, shelter, water**. Seriously. Do not try to get people put out on the street with no way get their life back on track. If someone's in a homeless shelter (or similar) already, just lay off them entirely -- unless of course you are also in the homeless shelter and they are directly affecting you.
 
 1. **Understand that the end goal of all of this is to have everyone be better to each other, and not ever associating with anyone (because they're all "problematic") does very little to reach that goal.**
 
@@ -67,3 +67,4 @@ Related posts:
 * [Calling IN: A Less Disposable Way of Holding Each Other Accountable](http://www.blackgirldangerous.org/2013/12/calling-less-disposable-way-holding-accountable/) @ BlackGirlDangerous
 * [Everyone’s offended these days](https://eev.ee/blog/2016/02/15/everyones-offended-these-days/) by Eevee
 * [Are we taking care of each other](http://gersande.com/blog/are-we-taking-care-of-each-other/) by Gersande
+* [It's okay to be gray](https://imgur.com/gallery/rkCLO)
