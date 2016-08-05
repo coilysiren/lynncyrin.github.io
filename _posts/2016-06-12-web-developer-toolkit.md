@@ -1,7 +1,9 @@
----
+s---
 layout: post
 title:  "Web Developer Toolkit"
 date:   2016-06-12 22:33:10 -0700
+redirect_from:
+  - /post/137435835431/web-developer-toolkit-extended-addition
 ---
 
 **!!! THIS POST IS UNDER CONSTRUCTION !!!**
