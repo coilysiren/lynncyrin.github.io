@@ -12,8 +12,7 @@ markdown: kramdown
 gems:
   - jemoji
   - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
+  - jekyll-sitemap
 
 sass:
     style: compressed
