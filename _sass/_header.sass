@@ -1,0 +1,72 @@
+header.nav-header
+    display: flex
+    flex-direction: column
+    justify-content: center
+
+    a, a:visited
+        color: black
+
+    a:hover, a:focus
+        text-decoration: none
+
+    h1
+        margin-bottom: 0
+        display: inline
+        font-size: 4em
+
+    &.header-index
+        height: 90vh
+
+        .container
+            margin-top: 0
+
+    .container
+        display: flex
+        padding: 10px 20px
+        margin: 20px auto 0
+        border-radius: 20px
+        background-color: rgba(100,100,100,0.1)
+
+        @media (max-width: 768px)
+            width: 100%
+
+    .header-left
+        display: flex
+        flex-direction: column
+        justify-content: center
+
+    .header-center
+        flex: 1
+        padding: 0 20px
+        display: flex
+        flex-direction: column
+        justify-content: center
+
+    .header-right
+        display: flex
+        flex-direction: column
+        justify-content: center
+
+    .header-center-top
+
+    .header-center-bottom
+        padding-top: 5px
+
+    nav
+
+        ul
+            padding: 0
+            margin: 0
+
+        li
+            display: inline-block
+            border-radius: 5px
+            padding: 2px 5px
+            background-color: rgba(100,100,100,0.15)
+            transition: background-color 0.1s ease-in
+
+            &:hover, &:focus
+                background-color: rgba(blue,0.15)
+
+            &:active
+                background-color: rgba(blue,0.3)

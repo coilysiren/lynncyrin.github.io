@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
+<header class="nav-header header-index">{% include nav.html %}</header>
 
-<div class="home">
+<main class="container">
+  <div class="row">
 
-  <h1 class="page-heading">Lynn Cyrin dot me</h1>
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {% endfor %}
+    </ul>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+  </div>
+</main>
