@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Origin Story"
 date:   2016-06-12 22:33:10 -0700
 redirect_from:
