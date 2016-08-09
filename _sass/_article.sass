@@ -41,9 +41,6 @@
     margin-top: 30vh
     margin-bottom: 30vh
 
-article
-    margin-top: 60px
-
 article, .index-articles>*
     padding: 30px 30px
     background-color: rgba(255,255,255,0.8)
@@ -53,11 +50,21 @@ article, .index-articles>*
     a
         color: purple
 
-        h2, h3, h4, h5
+        h1, h2, h3, h4, h5
             color: black
 
             &:active, &:hover
                 color: purple
+
+    h1
+        text-align: center
+        margin-top: 0
+        margin-bottom: 20px
+        padding-bottom: 10px
+        border-bottom: 2px rgba(100,100,100,0.3) solid
+        a
+            color: black
+
 
     h2
         text-align: center
@@ -84,3 +91,22 @@ article, .index-articles>*
 
         li
             margin: 30px 0 15px
+
+
+    h2, h3, h4, h5
+        text-align: center
+        margin: 25px 0
+
+    p
+        line-height: 1.7em
+        margin: 0 0 20px
+
+    li
+        margin: 0 0 10px
+
+article.article
+    margin-top: 60px
+
+#writing
+    h3
+        text-align: left
