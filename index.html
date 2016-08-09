@@ -9,24 +9,24 @@ layout: default
     <ul class="index-articles">
 
       <li id="about">
-        <div class="index-navigation">
+        <div class="article-navigation">
           <a href="/#" class="nav-icon nav-icon-up"><i class="fa fa-arrow-up"></i></a>
-          <a href="/#about" class="index-header"><h2>about</h2></a>
+          <a href="/#about" class="article-header"><h2>about</h2></a>
           <a href="/#writing" class="nav-icon nav-icon-down"><i class="fa fa-arrow-down"></i></a>
         </div>
         <hr>
         {% capture about %}{% include about.md %}{% endcapture %}
         {{ about | markdownify }}
         <hr>
-        <div class="index-navigation">
-          <a href="/#" class="index-header"><h3>back to top</h3></a>
+        <div class="article-navigation">
+          <a href="/#" class="article-header"><h3>back to top</h3></a>
         </div>
       </li>
 
       <li id="writing">
-        <div class="index-navigation">
+        <div class="article-navigation">
           <a href="/#about" class="nav-icon nav-icon-up"><i class="fa fa-arrow-up"></i></a>
-          <a href="/#writing" class="index-header"><h2>writing</h2></a>
+          <a href="/#writing" class="article-header"><h2>writing</h2></a>
           <a href="/#resume" class="nav-icon nav-icon-down"><i class="fa fa-arrow-down"></i></a>
         </div>
         <hr>
@@ -39,22 +39,22 @@ layout: default
           {% endfor %}
         </ul>
         <hr>
-        <div class="index-navigation">
-          <a href="/#" class="index-header"><h3>back to top</h3></a>
+        <div class="article-navigation">
+          <a href="/#" class="article-header"><h3>back to top</h3></a>
         </div>
       </li>
 
       <li id="resume">
-        <div class="index-navigation">
+        <div class="article-navigation">
           <a href="/#writing" class="nav-icon nav-icon-up"><i class="fa fa-arrow-up"></i></a>
-          <a href="/#resume" class="index-header"><h2>resume</h2></a>
+          <a href="/#resume" class="article-header"><h2>resume</h2></a>
         </div>
         <hr>
         {% capture resume %}{% include resume.md %}{% endcapture %}
         {{ resume | markdownify }}
         <hr>
-        <div class="index-navigation">
-          <a href="/#" class="index-header"><h3>back to top</h3></a>
+        <div class="article-navigation">
+          <a href="/#" class="article-header"><h3>back to top</h3></a>
         </div>
       </li>
     </ul>
