@@ -35,6 +35,9 @@ header.nav-header
         flex-direction: column
         justify-content: center
 
+        @media (max-width: 400px)
+            display: none
+
     .header-center
         flex: 1
         padding: 0 20px
@@ -61,9 +64,12 @@ header.nav-header
         li
             display: inline-block
             border-radius: 5px
-            padding: 2px 5px
+            margin: 3px 2px
             background-color: rgba(100,100,100,0.15)
             transition: background-color 0.1s ease-in
+
+            a
+                padding: 3px 6px
 
             &:hover, &:focus
                 background-color: rgba(blue,0.15)

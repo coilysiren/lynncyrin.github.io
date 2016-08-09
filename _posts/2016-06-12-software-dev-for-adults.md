@@ -2,6 +2,7 @@
 layout: page
 title:  "Software Development for Adults: Updating Production"
 date:   2016-06-12 22:33:10 -0700
+description: "Updating production is serious business"
 ---
 
 ## A Standard Release

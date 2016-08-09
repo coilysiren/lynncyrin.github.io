@@ -4,6 +4,7 @@ title:  "Origin Story"
 date:   2016-06-12 22:33:10 -0700
 redirect_from:
   - /post/132586391296/origin-story
+description: "My developer origin story, filled with peril! and strife!"
 ---
 
 I've been meaning to write this post for WEEKS now. It's been consistently delayed because of all the wonderful things that have happened to me super recently, but also because I to some extent I really dislike writing about this sort of thing. But I feel like I should, and that it'll be helpful.

@@ -1,11 +1,4 @@
----
-layout: page
-title: Resume
-permalink: /resume/
----
-
-Lynn Cyrin
-===========
+### Lynn Cyrin
 
 **Full Stack Web Developer** // <http://lynncyrin.me>  // lynncyrin@gmail.com
 
@@ -13,8 +6,7 @@ Professional full stack web developer with 3 years of industry experience. Looki
 
 My nontechnical work revolves around community, access, identity, and diversity. The majority of this work is heavily integrated with online communities and social media. I expect any organization I work with to support organizations like Transh4ck and Women Who Code.
 
-Skills
-------
+#### Skills
 
 *   **Languages**
     * Python, Ruby, PHP
@@ -34,8 +26,9 @@ Skills
     * Production Line Design, Glass Cannon Mages
 
 
-Jobs, Large Projects
---------------------
+#### Jobs, Large Projects
+
+(Ruby Together entry WIP)
 
 **Harlot Media** // [harlot.media](http://harlot.media)
 
@@ -68,8 +61,7 @@ Jobs, Large Projects
 
 -
 
-Speaking and Writing
---------------------
+#### Speaking and Writing
 
 *   **How Lynn Became Our Story's Protagonist** // Self Published
 
@@ -95,8 +87,7 @@ Speaking and Writing
 
     * My experience spending the majority of my time within online communities
 
-Other Technical Work
---------------------
+#### Other Technical Work
 
 * [A server manager for DjangoCMS](https://github.com/LynnCo/djangocms_server)
 * [A developer toolkit for Tumblr themes](https://github.com/LynnCo/TumblrDevKit)

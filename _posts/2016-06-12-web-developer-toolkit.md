@@ -2,6 +2,7 @@
 layout: page
 title:  "Web Developer Toolkit"
 date:   2016-06-12 22:33:10 -0700
+description: "A list of all the tools I use for web development, with links and descriptions"
 redirect_from:
   - /post/137435835431/web-developer-toolkit-extended-addition
 ---

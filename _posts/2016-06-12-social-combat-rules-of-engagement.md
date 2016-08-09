@@ -4,6 +4,7 @@ title:  "Social Combat Rules of Engagement"
 date:   2016-06-12 22:33:10 -0700
 redirect_from:
   - /post/139918720011/social-combat-rules-of-engagement
+description: "On keeping your balance while you work towards creating a more just world"
 ---
 
 ## Intro

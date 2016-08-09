@@ -1,2 +1,80 @@
+.index-articles
+    list-style: none
+
+    .index-navigation
+        position: relative
+        text-align: center
+
+    .nav-icon
+        color: black
+        opacity: 0.25
+        position: absolute
+        top: 0
+
+        &:hover, &:active
+            color: purple
+            opacity: 1
+
+    .nav-icon-up
+        left: 0
+
+    .nav-icon-down
+        right: 0
+
+    .index-header
+
+        h2
+            display: inline-block
+            opacity: 0.25
+
+        &:hover, &:active
+            text-decoration: none
+            color: purple
+
+.index-articles>*
+    margin-top: 30vh
+    margin-bottom: 30vh
+
 article
-    padding: 30px 15px
+    margin-top: 60px
+
+article, .index-articles>*
+    padding: 30px 30px
+    background-color: rgba(255,255,255,0.8)
+    border-radius: 40px
+    line-height: 1.5em
+
+    a
+        color: purple
+
+        h2, h3, h4, h5
+            color: black
+
+            &:active, &:hover
+                color: purple
+
+    h2
+        text-align: center
+        margin: 0
+
+    h3
+        font-size: 2em
+
+    h4
+        font-size: 1.75em
+
+    h5
+        font-size: 1.5em
+
+    .post-meta
+        opacity: 0.8
+
+    .post-list
+        margin: 15px 0
+        list-style: none
+
+        h3
+            margin-bottom: 0
+
+        li
+            margin: 30px 0 15px
