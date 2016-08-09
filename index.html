@@ -17,6 +17,10 @@ layout: default
         <hr>
         {% capture about %}{% include about.md %}{% endcapture %}
         {{ about | markdownify }}
+        <hr>
+        <div class="index-navigation">
+          <a href="/#" class="index-header"><h3>back to top</h3></a>
+        </div>
       </li>
 
       <li id="writing">
@@ -34,23 +38,25 @@ layout: default
             </li>
           {% endfor %}
         </ul>
+        <hr>
+        <div class="index-navigation">
+          <a href="/#" class="index-header"><h3>back to top</h3></a>
+        </div>
       </li>
 
       <li id="resume">
         <div class="index-navigation">
           <a href="/#writing" class="nav-icon nav-icon-up"><i class="fa fa-arrow-up"></i></a>
           <a href="/#resume" class="index-header"><h2>resume</h2></a>
-          <a href="/#back-to-top" class="nav-icon nav-icon-down"><i class="fa fa-arrow-down"></i></a>
         </div>
         <hr>
         {% capture resume %}{% include resume.md %}{% endcapture %}
         {{ resume | markdownify }}
+        <hr>
+        <div class="index-navigation">
+          <a href="/#" class="index-header"><h3>back to top</h3></a>
+        </div>
       </li>
-
-      <li id="back-to-top">
-        <a href="/#"><h2>back to top</h2></a>
-      </li>
-
     </ul>
 
   </div>
