@@ -1,11 +1,9 @@
 title: Lynn Cyrin
 email: lynncyrin@gmail.com
 description: >
-  Ruby / Python Web Developer and Project Manager + Activist
+  Python / Ruby Web Developer and Project Manager + Activist
 baseurl: ""
 url: "http://lynncyrin.me"
-twitter_username: lynncyrin
-github_username:  lynnco
 
 permalink: pretty
 markdown: kramdown
