@@ -1,67 +1,41 @@
-### Lynn Cyrin
+### Lynn "Cyrin" Conway
 
-**Full Stack Web Developer** // <http://lynncyrin.me>  // lynncyrin@gmail.com
+**Full Stack Web Developer** // http://lynncyrin.me // https://github.com/lynnco // lynncyrin@gmail.com
 
-*(Last Updated January 2016)*
-
-Professional full stack web developer with 3 years of industry experience. Looking for contract / part time / full time work in Portland, Oregon or remote - in either programming, project management, or cultural roles.
-
-My nontechnical work revolves around community, access, identity, and diversity. The majority of this work is heavily integrated with online communities and social media. I expect any organization I work with to support organizations like Transh4ck and Women Who Code.
+Full stack web developer with 3 years of industry experience. Looking for full time / part time work in Portland, Oregon or remote. Most comfortable in Rails or Django, writing Python, Ruby, or CSS.
 
 #### Skills
 
-*   **Languages**
-    * Python, Ruby, PHP
-    * HTML, CSS, Javascript
-*   **Frameworks / CMS**
-    * Rails, Flask, Django
-    * Craft CMS, Django CMS
-*   **Databases**
-    * Neo4j, MongoDB, Redis
-    * Postgres, MySQL
-*   **Other**
-    * Rails, Flask, Django
-    * Sass, CoffeeScript, jQuery, Bootstrap, AngularJS
-    * Linux (Ubuntu), Windows, Mac
-    * Git, Digital Ocean, Heroku
-    * Bash, Apache, Nginx
-    * Production Line Design, Glass Cannon Mages
+* **Languages:** Python, Ruby, PHP
+* **Front-end:** Sass, CoffeeScript, jQuery, Bootstrap, AngularJS
+* **Back-end:** Rails, Flask, Django, Craft CMS
+* **Databases:** Postgres, Neo4j, MongoDB
+* **Talents:** Glass Cannon, Lightning Evocation, Illusionist
 
+#### Jobs
 
-#### Jobs, Large Projects
+**[Ruby Together](https://rubytogether.org)** // **Project Manager** <br> Remote, May 2016 to Present
 
-**[Harlot Media](http://harlot.media)** // **Co-Owner, Lead Developer** <br> Remote, January 2016 to Present
+* Manage issues, milestones, and organization for the Bundler and RubyGems github repos
+* Create reports on all the work done by the organization, its finances, and time-lines
+* Contribute code to Ruby Together, Bundler, or RubyGems as needed
 
- * Designed and implemented the presentation and styling for this online magazine
- * Setup and maintenance of the Craft CMS installation, including some bash and PHP scripting
- * Sparked a worker takeover and a restructuring of power when the CEO left the company
- * Make managerial decisions about the future of the 30 person organization with the other 3 co-owners
+**[Harlot Media](http://harlot.media)** // **Full Stack Developer** <br> Remote, December 2015 to April 2016
 
+* Designed and implemented the presentation and styling in HTML / CSS / JS
+* Worked closely with a designer to implement core design from Photoshop files
+* Setup and maintained the Craft CMS installation, including bash and PHP scripting
 
-**[CollectQT](http://collectqt.me)** // **Founder, Project Manager, Web Developer** <br> Remote, August 2014 to Present
+**[Quirell](http://quirell.net)** // **Founder, Project Manager, Lead Developer** <br> Remote, November 2014 to November 2015
 
- * A decentralized worker-owner collective, with a focus on representation and personal growth
- * Generally involves managing 5 - 10 remote web developers / writers / performers
- * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://qapcollective.net)
+* A work in progress a social network made in Python, Flask, Neo4j
+* Ran a $5,000 crowdfunding campaign to fund prototype development
+* Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
 
+#### Projects, Speaking, etc
 
-**[Quirell](http://quirell.net)** // **Founder, Project Manager, Lead Developer** <br> Remote, November 2014 to Present
-
- * A work in progress a social network made in Python, Flask, Neo4j
- * Ran a $5000 crowdfunding campaign to fund prototype development
- * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
-
-#### Speaking and Writing
-
-*   **[Class Mobility, Mentorship and Getting Started in Tech](https://modelviewculture.com/pieces/class-mobility-mentorship-and-getting-started-in-tech)** @ Model View Culture <br> An interview about activism, class mobility, and getting started in tech
-
-*   **[Building Diverse Social Networks](http://opensourcebridge.org/sessions/1608)** @ Open Source Bridge <br> How can we make social networks whose systems are not hostile to diversity
-
-*   **[Building a Home on the Internet](http://www.alterconf.com/speakers/lynn-cyrin)** @ Alterconf <br> My experience spending the majority of my time within online communities
-
-#### Other Technical Work
-
-* [A server manager for DjangoCMS](https://github.com/LynnCo/djangocms_server)
-* [A developer toolkit for Tumblr themes](https://github.com/LynnCo/TumblrDevKit)
-* [A Twitter tool for managing the people you follow](https://gist.github.com/LynnCo/6b13e2528508349e05d6)
-* [Work on the Yocto Project's Autobuilder](http://git.yoctoproject.org/cgit/cgit.cgi/yocto-autobuilder/log/?qt=author&q=lynn)
+* Building Diverse Social Networks [(opensourcebridge)](http://opensourcebridge.org/sessions/1608)
+* Building a Home on the Internet [(alterconf)](http://www.alterconf.com/speakers/lynn-cyrin)
+* Work on the Yocto Project's Autobuilder [(yoctoproject)](http://git.yoctoproject.org/cgit/cgit.cgi/yocto-autobuilder/log/?qt=author&q=lynn)
+* A developer toolkit for Tumblr themes [(github)](https://github.com/LynnCo/TumblrDevKit)
+* A muting tool for election feelings [(twitter)](https://twitter.com/lynncyrin/status/720841089641394177)
