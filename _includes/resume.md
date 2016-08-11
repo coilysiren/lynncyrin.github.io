@@ -30,7 +30,7 @@ Full stack web developer with 3 years of industry experience. Looking for full t
 
 * A work in progress a social network made in Python, Flask, Neo4j
 * Ran a $5,000 crowdfunding campaign to fund prototype development
-* Worked with a dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
+* Worked with a dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin
 
 #### Projects, Speaking, etc
 
