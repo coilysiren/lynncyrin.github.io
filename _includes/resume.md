@@ -12,24 +12,24 @@ Full stack web developer with 3 years of industry experience. Looking for full t
 * **Databases:** Postgres, Neo4j, MongoDB
 * **Talents:** Glass Cannon, Lightning Evocation, Illusionist
 
-#### Jobs
+#### Larger Jobs
 
-**[Ruby Together](https://rubytogether.org)** // **Project Manager** <br> Remote, May 2016 to Present
+**[Ruby Together](https://rubytogether.org)** // **Project Manager, Developer (Ruby)** <br> Remote, May 2016 to Present
 
 * Manage issues, milestones, and organization for the Bundler and RubyGems github repos
-* Create reports on all the work done by the organization, its finances, and time-lines
-* Contribute code to Ruby Together, Bundler, or RubyGems as needed
+* Create reports on and help manage Ruby Together's events, timelines, and workflows
+* Contribute Ruby code to Ruby Together, Bundler, or RubyGems as needed
 
-**[Harlot Media](http://harlot.media)** // **Full Stack Developer** <br> Remote, December 2015 to April 2016
+**[Harlot Media](http://harlot.media)** // **Developer (CSS, JS, PHP, Bash)** <br> Remote, 4 months (December 2015 to April 2016)
 
-* Designed and implemented the presentation and styling in HTML / CSS / JS
-* Worked closely with a designer to implement core design from Photoshop files
-* Setup and maintained the Craft CMS installation, including bash and PHP scripting
+* Front-end development and design for an internet magazine
+* Focused on a balance of advanced CSS and browser compatibility
+* Setup and maintained the CMS (Craft CMS) with PHP and bash scripting
 
-**[Quirell](http://quirell.net)** // **Founder, Project Manager, Lead Developer** <br> Remote, November 2014 to November 2015
+**[Quirell](http://quirell.net)** // **Founder, Project Manager, Developer (Python, CSS)** <br> Remote, 1 year (November 2014 to November 2015)
 
-* A work in progress a social network made in Python, Flask, Neo4j
-* Ran a $5,000 crowdfunding campaign to fund prototype development
+* Worked on social network prototype utilizing Python / Flask / Neo4j
+* Ran crowdfunding and and community organizing campaigns to support development
 * Worked with a dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin
 
 #### Projects, Speaking, etc
