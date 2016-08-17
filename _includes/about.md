@@ -4,7 +4,7 @@ Top Skills:
 
 - Python, Ruby
 - CSS, JS
-- Rails, Flask
+- Rails, Flask, Django
 
 About Me:
 
