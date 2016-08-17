@@ -26,7 +26,7 @@ Full stack web developer with 3 years of industry experience. Looking for full t
 * Focused on a balance of advanced CSS and browser compatibility
 * Setup and maintained the CMS (Craft CMS) with PHP and bash scripting
 
-**[Quirell](http://quirell.net)** // **Founder, Project Manager, Developer (Python, CSS)** <br> Remote, 1 year (November 2014 to November 2015)
+**[Quirell](https://gitlab.com/collectqt/quirell)** // **Founder, Project Manager, Developer (Python, CSS)** <br> Remote, 1 year (November 2014 to November 2015)
 
 * Worked on social network prototype utilizing Python / Flask / Neo4j
 * Ran crowdfunding and and community organizing campaigns to support development
