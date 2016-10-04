@@ -16,12 +16,14 @@ layout: default
         </div>
         <hr>
         {% capture about %}{% include about.md %}{% endcapture %}
-        {{ about | markdownify }}
+        <div class="compressed">{{ about | markdownify }}</div>
         <hr>
+        <!--
         <div class="centered">
           <p>Last updated: August 2016</p>
         </div>
         <hr>
+        -->
         <div class="article-navigation">
           <a href="/#" class="article-header"><h3>back to top</h3></a>
         </div>
