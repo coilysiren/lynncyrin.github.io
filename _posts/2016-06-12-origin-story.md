@@ -25,7 +25,7 @@ The 1.5 meals part of the second shelter is actually a pretty important point. B
 
 That was a short advocacy aside, because I was not actually employed during the time I was homeless. I was instead working on training my coding skills. In my opinion, learning to code while homeless is a ton easier than working retail while homeless. But objectively, here's an example day of mine (in the 2nd shelter):
 
-*   **8am** Mandatory to be out of the shelter by this time
+*   **8a** Mandatory to be out of the shelter by this time
 *   **8a - 9a** Writing code on my [paper] notebook while sitting outside (+1)
 *   **9a** Library opens
 *   **9a - 12p** Writing code on my laptop in the library (+3)
