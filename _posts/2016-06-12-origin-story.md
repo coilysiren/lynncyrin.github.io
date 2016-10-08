@@ -27,12 +27,13 @@ That was a short advocacy aside, because I was not actually employed during the 
 
 *   **8am** Mandatory to be out of the shelter by this time
 *   **8a - 9a** Writing code on my [paper] notebook while sitting outside (+1)
+*   **9a** Library opens
 *   **9a - 12p** Writing code on my laptop in the library (+3)
 *   **12p - 1p** Hunt for free food
 *   **1p - 3p** Sleep (somewhere random)
-*   **3p - 6p** Writing code on laptop at the LGBT center similar (+3)
+*   **3p - 6p** Writing code on laptop at the LGBT center (or any community center) (+3)
 *   **630p** In by curfew
-*   **7p - 9p** boring stuff stuff (eat, clean, draft emails, etc...)
+*   **7p - 9p** boring stuff (eat, clean, draft emails, etc...)
 *   **9p - 11p** Sleep (in shelter)
 *   **12p - 3a** write code on notebook in shelter (+3)
 *   **3a** Sleep (in shelter)
