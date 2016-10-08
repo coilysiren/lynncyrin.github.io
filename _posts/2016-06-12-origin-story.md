@@ -38,9 +38,9 @@ That was a short advocacy aside, because I was not actually employed during the 
 *   **12p - 3a** write code on notebook in shelter (+3 hours)
 *   **3a** Sleep (in shelter)
 
-So there are a few things to note here. First, I was 'at work' for 10 hours a day generally. This is actually a low point in that respect. When I was in the other shelter it was 12 hours, and when I was couch surfing it was 14. Second, I had my laptop no more than 10 feet away from me at any given time (showers were not an exception), but it wasn't always safe to use it.
+So there are a few things to note here. First, I was 'at work' for 10 hours a day generally. This is actually a low point in that respect. When I was in the other shelter it was 12 hours, and when I was couch surfing it was 14. Second, I had my laptop no more than 10 feet away from me at any given time (showers were not an exception), but it wasn't always safe to use it. Writing code on paper can be good experience to have sometimes though! 
 
-Writing code on paper can be good experience to have sometimes though! I kept this sort of schedule up for about 4 months. That is, write / read code for 10+ hours a day while eating minimally and living in super unstable housing. Shelters are inherently unstable, and I was changing shelters once a month. This was everything that I did. **I didn't leave out time for eating and self care, they just didn't happen.**
+I kept this sort of schedule up for about 4 months. That is, write / read code for 10+ hours a day while eating minimally and living in super unstable housing. Shelters are inherently unstable, and I was changing shelters once a month. This was everything that I did. **I didn't leave out time for eating and self care, they just didn't happen.**
 
 And at the time that I was doing all this I had an intricate life plan. It went out 6 - 12 years and involved me getting one of these:
 
