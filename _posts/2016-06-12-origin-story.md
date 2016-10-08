@@ -26,16 +26,16 @@ The 1.5 meals part of the second shelter is actually a pretty important point. B
 That was a short advocacy aside, because I was not actually employed during the time I was homeless. I was instead working on training my coding skills. In my opinion, learning to code while homeless is a ton easier than working retail while homeless. But objectively, here's an example day of mine (in the 2nd shelter):
 
 *   **8a** Mandatory to be out of the shelter by this time
-*   **8a - 9a** Writing code on my [paper] notebook while sitting outside (+1)
+*   **8a - 9a** Writing code on my [paper] notebook while sitting outside (+1 hours)
 *   **9a** Library opens
-*   **9a - 12p** Writing code on my laptop in the library (+3)
+*   **9a - 12p** Writing code on my laptop in the library (+3 hours)
 *   **12p - 1p** Hunt for free food
 *   **1p - 3p** Sleep (somewhere random)
-*   **3p - 6p** Writing code on laptop at the LGBT center (or any community center) (+3)
+*   **3p - 6p** Writing code on laptop at the LGBT center (or any community center) (+3 hours)
 *   **630p** In by curfew
 *   **7p - 9p** boring stuff (eat, clean, draft emails, etc...)
 *   **9p - 11p** Sleep (in shelter)
-*   **12p - 3a** write code on notebook in shelter (+3)
+*   **12p - 3a** write code on notebook in shelter (+3 hours)
 *   **3a** Sleep (in shelter)
 
 So there are a few things to note here. First, I was 'at work' for 10 hours a day generally. This is actually a low point in that respect. When I was in the other shelter it was 12 hours, and when I was couch surfing it was 14. Second, I had my laptop no more than 10 feet away from me at any given time (showers were not an exception), but it wasn't always safe to use it.
