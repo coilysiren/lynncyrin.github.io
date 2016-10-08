@@ -46,7 +46,7 @@ And at the time that I was doing all this I had an intricate life plan. It went 
 
 * into school
 * an internship
-* getting a job
+* a job
 * crowdfunded income
 * government housing.
 
