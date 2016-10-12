@@ -10,4 +10,5 @@ function autolink(match) {
 
 $( document ).ready(function() {
   autolink('ol >')
+  window.location.href = window.location.hash
 });
