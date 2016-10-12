@@ -10,5 +10,5 @@ function autolink(match) {
 
 $( document ).ready(function() {
   autolink('article ol >')
-  window.location.href = window.location.hash
+  if (window.location.hash) {window.location.href = window.location.hash}
 });
