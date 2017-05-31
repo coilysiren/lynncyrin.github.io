@@ -2,7 +2,7 @@
 layout: page
 title:  "Heroku + Django Pipeline + Ruby Sass"
 date:   2017-05-30 00:00:00 -0700
-description: "getting django pipeline to use the ruby sass compiler on heroku"
+description: "Getting django pipeline to use the ruby sass compiler on heroku"
 ---
 
 *(valid as of March 30th 2017)*
