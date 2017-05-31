@@ -73,7 +73,7 @@ bundle install
 
 (`pre_compile` is a hook for the python buildpack)
 
-Does this mean `heroku buildpacks:add heroku/ruby --index 1` is unused? Probably. Someone investigate this and [let me know](@https://twitter.com/lynncyrin).
+Does this mean `heroku buildpacks:add heroku/ruby --index 1` is unused? Probably. Someone investigate this and [let me know](https://twitter.com/lynncyrin).
 
 ## Get this fixed for good!
 
