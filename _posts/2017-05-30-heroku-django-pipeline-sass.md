@@ -59,7 +59,7 @@ b"/tmp/DIR/vendor/ruby-2.3.3/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:
     from /tmp/DIR/vendor/bundle/bin/sass:15:in `<main>"
 ```
 
-and after a lot of fiddling and staring at that error message, it occurred to me that maybe python wasn't calling the right `sass`. Which inspired the following "fix"
+From that message, it occurred to me that maybe python wasn't calling the right `sass`. Which inspired the following "fix"
 
 ### How you get it, but for real this time
 
@@ -73,14 +73,14 @@ bundle install
 
 (`pre_compile` is a hook for the python buildpack)
 
-Does this mean `heroku buildpacks:add heroku/ruby --index 1` is unused? Probably. Someone investigate this and [let me know](https://twitter.com/lynncyrin).
+Does this mean `heroku buildpacks:add heroku/ruby --index 1` is unused? Someone investigate this and [let me know](https://twitter.com/lynncyrin).
 
 ## Get this fixed for good!
 
-One of the devs of the projects below will probably know what's up
+One of the devs of the projects below will know what's up
 
 - <https://github.com/jazzband/django-pipeline>
 - <https://github.com/heroku/heroku-buildpack-ruby>
 - <https://github.com/heroku/heroku-buildpack-python>
 
-But if you just want a fix for your project, the `pre_compile` script will do just fine
+But if you want a fix for your project, the `pre_compile` script will work fine
