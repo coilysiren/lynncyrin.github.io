@@ -7,6 +7,7 @@ url: "http://lynncyrin.me"
 
 permalink: pretty
 markdown: kramdown
+highlighter: rouge
 gems:
   - jemoji
   - jekyll-redirect-from
