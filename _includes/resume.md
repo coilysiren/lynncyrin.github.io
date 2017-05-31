@@ -2,8 +2,6 @@
 
 **Full Stack Web Developer** // http://lynncyrin.me // https://github.com/lynnco // lynncyrin@gmail.com
 
-Full stack web developer with 3 years of industry experience. Looking for full time / part time work in Portland, Oregon or remote. Best with Rails or Django, writing Python, Ruby, or CSS.
-
 #### Skills
 
 * **Languages:** Python, Ruby, PHP
