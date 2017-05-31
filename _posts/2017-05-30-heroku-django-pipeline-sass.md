@@ -9,7 +9,7 @@ description: "getting django pipeline to use the ruby sass compiler on heroku"
 
 ## What you have
 
-A currently existing django project, hosted on heroku, with a bunch of css
+- A currently existing django project, hosted on heroku, with a bunch of css
 
 ## What you want
 
@@ -20,15 +20,19 @@ A currently existing django project, hosted on heroku, with a bunch of css
 
 heroku setup
 
-```
+```bash
 # bash
+
 heroku buildpacks:add heroku/ruby --index 1 --app $APP_NAME
 ```
 
 django pipeline setup
 
-```
+
+```python
 # config/settings/base.py
+
+# snipped to only the relevant bit, see django pipeline's docs for the rest
 PIPELINE = {
     'COMPILERS': (
         'pipeline.compilers.sass.SASSCompiler',
@@ -38,8 +42,9 @@ PIPELINE = {
 
 sass setup
 
-```
+```ruby
 # Gemfile
+
 source "https://rubygems.org"
 ruby '2.3.3'
 
@@ -51,7 +56,7 @@ gem "susy"
 
 or at least it didn't for me, I got this (formatted for readability) error
 
-```
+```bash
 pipeline.exceptions.CompilerError: <filter object at 0x1337> exit code 1
 b"/tmp/DIR/vendor/ruby-2.3.3/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require':
     cannot load such file -- bundler/setup (LoadError)
@@ -65,7 +70,7 @@ From that message, it occurred to me that maybe python wasn't calling the right 
 
 Install your gems to whatever `ruby` / `sass` the python buildpack is calling
 
-```
+```bash
 # bin/pre_compile
 gem install bundler
 bundle install
