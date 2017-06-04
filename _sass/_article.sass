@@ -136,3 +136,37 @@ article.article
 #writing
     h3
         text-align: left
+
+$color-rank-1: #DDC4DD
+$color-rank-2: #F2DF63
+$color-rank-3: #9EB25D
+$color-rank-4: #A7C6DA
+
+.star-ranking
+
+  width: 35px
+
+  .fa
+    font-size: 14px
+
+  &.rank-1
+    .fa
+      color: $color-rank-1
+    .fa:nth-child(n+2)
+      color: #dddddd
+
+  &.rank-2
+    .fa
+      color: $color-rank-2
+    .fa:nth-child(n+3)
+      color: #dddddd
+
+  &.rank-3
+    .fa
+      color: $color-rank-3
+    .fa:nth-child(n+4)
+      color: #dddddd
+
+  &.rank-3
+    .fa
+      color: $color-rank-4
