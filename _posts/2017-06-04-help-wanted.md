@@ -20,11 +20,11 @@ You'll be working on one of more of the tasks below:
 
 ## $$$
 
-**$30/hr**
+Rate: **$30/hr**
 
 You tell me your hours worked, I pay you, and then invoice the client with my + your hours.
 
-I'll want to know your hours weekly, and you should work a **maximum of 20 hours / $600** in a week. I'll make sure to always have $600 ready to pay you with, and if that's ever not the case I will let you know immediately.
+I'll want to know your hours weekly, and you should work a **maximum of 20 hours / $600 a week**. I'll make sure to always have $600 ready to pay you with, and if that's ever not the case I will let you know immediately.
 
 ## Time commitment
 
