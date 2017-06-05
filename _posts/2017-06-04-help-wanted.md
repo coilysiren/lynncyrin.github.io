@@ -13,8 +13,8 @@ The project you would be working on is a data driven django site. The back end i
 
 You'll be working on one of more of the tasks below:
 
-- *(back end)* copy a 5000 row spreadsheet into the database, while formatting the data into the appropriate database objects
-- *(front end)* implement the static / info page portions of the front end.
+- *(back end)* copy a 5000 row spreadsheet into the database, while formatting the data into the appropriate database objects, and uploading the associated images
+- *(front end)* implement the static / info page portions of the front end. You'll be working off a PDF of the designs from a previous designer.
 
 ## $$$
 
