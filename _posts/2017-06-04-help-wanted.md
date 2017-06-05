@@ -11,18 +11,16 @@ The project you would be working on is a data driven django site. The back end i
 
 ## Tasks
 
-I'll be working primarily on graphs, operations, and communicating expectation and progress with the client. You'll be working on getting the data into the database, and the non-graph portions of the front end.
+You'll be working on one of more of the tasks below:
 
-Your main tasks will be:
-
-- (python) copy a 5000 row spreadsheet with references to currently existing database objects to the database
-- (python) same task as above, but with roughly 1000 images that need to be copied to an image server
+- (back end) copy a 5000 row spreadsheet with references to currently existing database objects to the database
+- (back end) same task as above, but with roughly 1000 images that need to be copied to an image server
 - (front end) implement the static / info page portions of the front end
-- (front end) implement a simple django CMS for editing the text pages
+- (both) implement a simple django CMS for editing the text pages
 
 ## $$$
 
-**$30/hr**, up to $1500 ~ $3000
+**$30/hr**
 
 You tell me your hours worked, I pay you, and then invoice the client with my + your hours.
 
