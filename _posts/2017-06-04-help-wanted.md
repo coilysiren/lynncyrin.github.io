@@ -5,7 +5,7 @@ date:   2017-06-04 00:00:00 -0700
 description: "I'm looking to subcontract some client work"
 ---
 
-I'm looking for a developer to subcontract some client work to. The work I would be giving to you is low complexity, but often time consuming, python / front end tasks. It's suitable for a junior dev who would need mentoring to help finish the tasks, a mid level dev with some time on their hands, or anything in between.
+I'm looking for a developer to subcontract some client work to. The work I would be giving to you is low complexity, but often time consuming, python / front end tasks. It's suitable for a junior dev who would need mentoring to help finish the tasks, a senior dev with some time on their hands, or anything in between.
 
 The project you would be working on is a data driven django site. The back end is a postgres database with a few thousand entries of client curated data. The front end is mostly a series of graphs used to display that data.
 
