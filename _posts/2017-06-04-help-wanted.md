@@ -3,7 +3,10 @@ layout: page
 title:  "Dev wanted for Python / Front End work"
 date:   2017-06-04 00:00:00 -0700
 description: "I'm looking to subcontract some client work"
+unlisted: "True"
 ---
+
+**I found the people for this position, thanks everyone!!!**
 
 I'm looking for a developer to subcontract some client work to. The work I would be giving to you is low complexity, but often time consuming, python / front end tasks. It's suitable for a junior dev who would need mentoring to help finish the tasks, a senior dev with some time on their hands, or anything in between.
 
