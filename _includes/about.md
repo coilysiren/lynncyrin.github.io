@@ -1,1 +1,1 @@
-I'm Lynn "Cyrin" Conway a full stack developer, project manager, and activist. I'm also a black poly trans lesbian ([my.pronoun.is/she](http://my.pronoun.is/she)). I do most of my work with connections and community (the queer trans community in particular).
+I'm Lynn "Cyrin" Conway a Senior Software Engineer and Project Manager. I'm also a black poly trans lesbian ([my.pronoun.is/she](http://my.pronoun.is/she)). I do most of my work with connections and community (the queer trans community in particular).
