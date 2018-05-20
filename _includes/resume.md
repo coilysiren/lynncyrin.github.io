@@ -1,22 +1,23 @@
 ### Lynn "Cyrin" Conway
 
-**Software Engineer** // http://lynncyrin.me // lynncyrin@gmail.com
+**Software Engineer** // programming zealot // web application architect
+http://lynncyrin.me // lynncyrin@gmail.com
 
-#### Skills
+#### Best Fit Toolsets
 
-* **Languages:** Python, Ruby, PHP
-* **Front-end:** Sass, CoffeeScript, jQuery, Bootstrap, AngularJS
-* **Back-end:** Rails, Flask, Django, Craft CMS
-* **Databases:** Postgres, Neo4j, MongoDB
-* **Talents:** Glass Cannon, Lightning Evocation, Illusionist
+* **\[ languages \]** Python, Ruby, NodeJS
+* **\[ front-end \]** Sass, Angular / React, Storybook
+* **\[ application framework \]** Django / Rails, Flask / Sinatra
+* **\[ data store \]** Postgres, Neo4j, MongoDB, Redis
+* **\[ infrastructure \]** Ubuntu, Heroku, AWS
 
 #### Software Engineering Jobs
 
-**[Callisto](https://www.projectcallisto.org/)** // **Senior Software Engineer (Django, NodeJS)** <br> Remote, October 2016 to Present
+**[Callisto](https://www.projectcallisto.org/)** // **Senior Software Engineer (Django, NodeJS, Angular)** <br> Remote, October 2016 to Present
 
 * Audit and upgrade existing security focused application logic on the campus product
 * Lead new feature developement with a focus on automation, maintainability, and security
-* Built a new industry product in NodeJS with client side encryption and secret sharing
+* Build a new industry product in NodeJS + Angular with client side encryption and secret sharing
 
 **[Ruby Together](https://rubytogether.org)** // **Project Manager, Software Engineer (Ruby)** <br> Remote, 8 months (May 2016 to December 2016)
 
