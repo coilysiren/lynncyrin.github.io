@@ -1,6 +1,6 @@
 ### Lynn "Cyrin" Conway
 
-**Full Stack Web Developer** // http://lynncyrin.me // https://github.com/lynnco // lynncyrin@gmail.com
+**Software Engineer** // http://lynncyrin.me // lynncyrin@gmail.com
 
 #### Skills
 
